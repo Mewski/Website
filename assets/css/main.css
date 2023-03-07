@@ -1,0 +1,9 @@
+* {
+    user-select: none;
+    text-transform: lowercase !important;
+}
+
+.blog-section,
+.blog-section * {
+  text-transform: none !important;
+}
